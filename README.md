@@ -62,7 +62,3 @@ Feel free to contribute by submitting issues or pull requests. Your feedback and
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-**Note**: This README is a template. Please replace the placeholders with actual information about your project to create an informative README file.
